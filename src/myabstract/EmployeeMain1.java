@@ -12,6 +12,11 @@ package myabstract;
  */
 
 import java.util.Scanner;
+import myabstract.Employee;
+import myabstract.HourlyEmployee;
+import myabstract.SalariedEmployee;
+import myabstract.SalaryPlusCommissionEmployee;
+
 
 public class EmployeeMain1 {
     public static void main(String[] args) {
